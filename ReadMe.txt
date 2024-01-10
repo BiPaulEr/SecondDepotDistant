@@ -1,3 +1,2 @@
 Nouveau Travil
-Travail fait par un collabarateur
-Encore travil
+Du travail de collaborateur pour exploiquer pull
